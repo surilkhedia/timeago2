@@ -1,12 +1,21 @@
 {
   "name": "timeago2",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Display dates in a twitter like timeago date format (e.g. '9s' or 'Dec 29')",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "timeago",
+    "date",
+    "time",
+    "datetime"
+  ],
+  "author": "surilkhedia",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/surilkhedia/timeago2"
+  }
 }
